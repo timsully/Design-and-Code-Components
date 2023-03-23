@@ -1,4 +1,7 @@
-# Svelte-Boilerplate
+# What is this?
+This repository is for my YouTube series Design and Code Components where I will be teaching designers how to translate their designs from Figma to Svelte. Focusing solely on styling components with Svelte.
+
+# Getting Started
 Barebones Svelte template I use for doing some front-endsky
 
 ## Setup
